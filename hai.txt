@@ -1,4 +1,2 @@
 alpha 
 beeta
-gamma
-This is Nethaji from MRCET
